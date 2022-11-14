@@ -12,13 +12,13 @@ I start coding at 10 o'clock and compleat after 15 minuts, because my brain suck
 
 ////
 
-But seriously I'm 13 yo, I started coding when I was 10, it was python, but quickly finished it, because I got bored.
-After 3 years I went to an academy that gave me a love for .cpp. (but that love ends very quickly when my code doesn't run)
+But seriously I'm 13 yo, I started coding when I was 10, it was python, but quickly finished it, because I got bored. 
+After 3 years I went to an academy that gave me a love for .cpp. (but that love ends very quickly when my code doesn't run) 
 Also in academy i'm studying cyber security, and i like that too.
 
 ////
 
-If you want to talk with me about smth (pls don't do this if you don't want to hear my english)
+If you want to talk to me about smth (pls don't do this if you don't want to hear my english) 
 My Discord LUCIK#2486
 
 ////
@@ -26,4 +26,4 @@ My Discord LUCIK#2486
 Thank you for your time.
 Break a lag and bye bye.
 
-p.s. yes i write this in VS
+P.S. Yes i write this in VS
