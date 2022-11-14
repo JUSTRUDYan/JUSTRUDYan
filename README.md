@@ -6,7 +6,7 @@ I will try to write a poem about myself as Taras Shevchenko, in my broken Englis
 
 What you need to know about me : I'm Anton, 3 years old and i from Ukraine 🇺🇦.
 
-/*I also hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. Please, support Ukraine!*/
+/\**I also hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. Please, support Ukraine!\**/
 
 I start coding at 10 o'clock and compleat after 15 minuts, because my brain suck's.
 
