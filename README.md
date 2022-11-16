@@ -14,7 +14,7 @@ I start coding at 10 o'clock and compleat after 15 minuts, because my brain suck
 
 But seriously I'm 13 yo, I started coding when I was 10, it was python, but quickly finished it, because I got bored. 
 After 3 years I went to an academy that gave me a love for .cpp. (but that love ends very quickly when my code doesn't run) 
-Also in academy i'm studying cyber security, and i like that too.
+Also in academy i'm studying cyber security, and i like that too. THX to my teacher for that Mykola Mykolayovych (cyber sec.) and Oleg Oleksiiovych (coding).
 
 ////
 
