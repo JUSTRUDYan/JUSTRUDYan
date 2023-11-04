@@ -13,7 +13,9 @@
 :building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya">Craftoriya</a> minecraft server<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
 :books: I am currently reading - How the World’s Most Relentless Retailer will Continue to Revolutionize Commerce - Natalie Berg, Miya Knights<br>
+  
 ---
+
 </div>
 <div aligin="left">
 I will try to write a poem about myself as Taras Shevchenko, in my broken English.
