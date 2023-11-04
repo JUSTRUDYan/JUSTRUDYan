@@ -9,7 +9,7 @@
 <h4 align="left">A lowSkill DevOps from Ukraine</h4>
 
 ###
-
+<div aligin="left">
 I will try to write a poem about myself as Taras Shevchenko, in my broken English.
 
 What you need to know about me : I'm Anton, 3 years old and i from Ukraine 🇺🇦.
@@ -19,7 +19,7 @@ I start coding at 10 o'clock and compleat after 15 minuts, because my brain suck
 But seriously I'm 16 yo, I started coding when I was 10, it was cpp, but quickly finished it, because of my silly mindset at that time.<br>
 After 4 years I went to an academy that gave me a love for .cpp. (but that love ends very quickly when my code doesn't run) <br>
 Also in academy i'm studying DevOps, and i like that too. THX to my teacher for that Oleksandr Mykolayovych (cyber sec.) and Oleg Oleksiiovych (coding).
-
+</div>
 
 ###
 
@@ -64,7 +64,7 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 ---
 
 ###
-<h4 align="left">which is my favorite music?:</h4>
+<h4 align="left">Which is my favorite music?:</h4>
 <div align="center">
   <a href="https://open.spotify.com/user/s91mok30jp8bi8x4otxr4b4sx">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=s91mok30jp8bi8x4otxr4b4sx&count=5&unique=false" alt="Spotify recently played"  />
@@ -72,3 +72,11 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 </div>
 
 ###
+
+---
+
+###
+
+<h4 align="left">How you can reach me?:</h4>
+
+
