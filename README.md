@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm RUDY</h1>
 <h3 align="center">A lowSkill DevOps from Ukraine</h3>
 
+- 🌱 I’m currently learning **advanced postgresql settings**
+
+- 🤝 I’m looking for help with **Docker and K8s**
+
+- 📫 How to reach me **demianov.anton1@gmail.com**
+
+- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/rudy_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rudy_an" height="30" width="40" /></a>
