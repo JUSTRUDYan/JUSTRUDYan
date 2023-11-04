@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm RUDY</h1>
-<h3 align="center">A lowSkill DevOps from Ukraine</h3>
+<h2 align="left">Hi there :wave:</h2>
 
-<h3 align="center">I  hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.</h3>
-<h3 align="center"><b>Please, support Ukraine!</h3>
-  
----
+###
 
-- 🌱 I’m currently learning **advanced postgresql settings**
+<h3 align="left">I am RUDYan</h3>
 
-- 🤝 I’m looking for help with **Docker and K8s**
+###
 
-- 📫 How to reach me **demianov.anton1@gmail.com**
+<h4 align="left">A lowSkill DevOps from Ukraine</h4>
 
-- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**
+###
 
----
+<p align="left">\\I hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.<br><br>- 🌱 I’m currently learning **advanced postgresql settings**<br><br>- 🤝 I’m looking for help with **Docker and K8s**<br><br>- 📫 How to reach me **demianov.anton1@gmail.com**<br><br>- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/rudy_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rudy_an" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left">---</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrudyan&show_icons=true&theme=dark&locale=en&layout=compact" alt="justrudyan" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrudyan&theme=dark" alt="justrudyan" /></p>
+<h4 align="left">Which tools do I use the most?:</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h4 align="left">which tools i am currently learning?:</h4>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+</div>
+
+###
+
+<p align="left">---</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUSTRUDYan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUSTRUDYan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/s91mok30jp8bi8x4otxr4b4sx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=s91mok30jp8bi8x4otxr4b4sx&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
