@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">\\I also hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.<br><br>- ><br>- 📫 How to reach me **demianov.anton1@gmail.com**<br><br>- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**</p>
-
-###
-
 ---
 
 ###
