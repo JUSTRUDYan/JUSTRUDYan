@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUDY</h1>
 <h3 align="center">A lowSkill DevOps from Ukraine</h3>
 
-I  hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. <b>Please, support Ukraine!<\b>
+I  hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. <b>Please, support Ukraine!<b>
 
 - 🌱 I’m currently learning **advanced postgresql settings**
 
