@@ -3,7 +3,7 @@
 
 <h3 align="center">I  hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.</h3>
 <h3 align="center"><b>Please, support Ukraine!</h3>
-
+---
 - 🌱 I’m currently learning **advanced postgresql settings**
 
 - 🤝 I’m looking for help with **Docker and K8s**
