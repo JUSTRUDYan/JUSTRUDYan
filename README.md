@@ -10,9 +10,9 @@
 
 ###
 <div aligin="left">
-:building_construction: Currently working as DBA in <a href="https://github.com/Craftoriya">Craftoriya</a> minecraft server<br>
+:building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya">Craftoriya</a> minecraft server<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
-:books: Currently reading - Amazon and the future of e-commerce - Natalie Berg, Mia Knights<br>
+:books: I am currently reading - Amazon and the future of e-commerce - Natalie Berg, Mia Knights<br>
 ---
 </div>
 <div aligin="left">
