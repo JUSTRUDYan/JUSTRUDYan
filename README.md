@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm RUDY</h1>
 <h3 align="center">A lowSkill DevOps from Ukraine</h3>
 
+/\**I also hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. Please, support Ukraine!\**/
+
 - 🌱 I’m currently learning **advanced postgresql settings**
 
 - 🤝 I’m looking for help with **Docker and K8s**
