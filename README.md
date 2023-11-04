@@ -53,7 +53,7 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 
 ###
 
-<h4 align="left">which tools i am currently learning?:</h4>
+<h4 align="left">Which tools i am currently learning?:</h4>
 
 ###
 
