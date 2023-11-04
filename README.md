@@ -2,7 +2,7 @@
 <h3 align="center">A lowSkill DevOps from Ukraine</h3>
 
 I  hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion. 
-<h3 align="center"><b>Please, support Ukraine!
+<h3 align="center"><b>Please, support Ukraine!</h3>
 
 - 🌱 I’m currently learning **advanced postgresql settings**
 
