@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">\\I hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.<br><br>- 🌱 I’m currently learning **advanced postgresql settings**<br><br>- 🤝 I’m looking for help with **Docker and K8s**<br><br>- 📫 How to reach me **demianov.anton1@gmail.com**<br><br>- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**</p>
+<p align="left">\\I also hate to read the morning news ‘cause it always makes me sad, you know, many people died because of russian invasion.<br><br>- 🌱 I’m currently learning **advanced postgresql settings**<br><br>- 🤝 I’m looking for help with **Docker and K8s**<br><br>- 📫 How to reach me **demianov.anton1@gmail.com**<br><br>- ⚡ Fun fact **I VERY VERY LOVE COFFE WITH COOKIES**</p>
 
 ###
 
