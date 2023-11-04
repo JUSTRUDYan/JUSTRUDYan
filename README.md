@@ -10,6 +10,12 @@
 
 ###
 <div aligin="left">
+:books:Currently reading - Amazon and the future of e-commerce - Natalie Berg, Mia Knights
+:building_construction: Currently working as DBA in <a href="https://github.com/Craftoriya">Craftoriya</a> minecraft server
+:man_student: I passed a CCNA, CCNE, CyberOps cisco certificate
+---
+</div>
+<div aligin="left">
 I will try to write a poem about myself as Taras Shevchenko, in my broken English.
 
 What you need to know about me : I'm Anton, 3 years old and i from Ukraine 🇺🇦.
