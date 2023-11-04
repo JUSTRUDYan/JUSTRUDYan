@@ -12,7 +12,7 @@
 <div aligin="left">
 :building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya">Craftoriya</a> minecraft server<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
-:books: I am currently reading - Amazon and the future of e-commerce - Natalie Berg, Mia Knights<br>
+:books: I am currently reading - How the World’s Most Relentless Retailer will Continue to Revolutionize Commerce - Natalie Berg, Miya Knights<br>
 ---
 </div>
 <div aligin="left">
