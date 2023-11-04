@@ -79,8 +79,8 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 
 <h4 align="left">How you can reach me?:</h4>
 
-My email - demianov.anton1@gmail.com<br>
-My discord - rudy_an<br>
+My email - <button onclick="copy()" id="copy">demianov.anton1@gmail.com</button><br>
+My discord - <button onclick="copy()" id="copy">rudy_an</button><br>
 <a href="https://www.linkedin.com/in/demianov-anton-97a43226b">My linkedin</a><br>
 
 
