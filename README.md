@@ -35,10 +35,11 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 
 ###
 
+<div align="center"><img src="https://www.codewars.com/users/RUDYan/badges/large" alt="codewars stats"/></div>
+
 <h4 align="left">Which tools do I use the most?:</h4>
 
 ###
-<div align="center">https://www.codewars.com/users/RUDYan/badges/large</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
