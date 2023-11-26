@@ -59,6 +59,8 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RUDYan\&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/018c0d6d-46b1-47c5-b3af-457bc7f245cb.svg)](https://wakatime.com/@018c0d6d-46b1-47c5-b3af-457bc7f245cb)
+
 ###
 
 <h4 align="left">Which tools i am currently learning?:</h4>
