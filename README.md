@@ -5,7 +5,7 @@
 <h3 align="left">I am RUDYan</h3>
 
 ###
-
+[![wakatime](https://wakatime.com/badge/user/018c0d6d-46b1-47c5-b3af-457bc7f245cb.svg)](https://wakatime.com/@018c0d6d-46b1-47c5-b3af-457bc7f245cb)
 <h4 align="left">A lowSkill DevOps from Ukraine</h4>
 
 ###
@@ -56,7 +56,6 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 <br>
 <div align="center"> <img src="https://www.codewars.com/users/RUDYan/badges/large" alt="codewars stats"/> </div>
 <br>
-[![wakatime](https://wakatime.com/badge/user/018c0d6d-46b1-47c5-b3af-457bc7f245cb.svg)](https://wakatime.com/@018c0d6d-46b1-47c5-b3af-457bc7f245cb)
 
 
 ###
