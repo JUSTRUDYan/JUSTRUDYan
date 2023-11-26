@@ -46,8 +46,6 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
 <br>
 <div align="center"> <img src="https://www.codewars.com/users/RUDYan/badges/large" alt="codewars stats"/> </div>
@@ -68,6 +66,8 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
