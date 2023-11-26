@@ -13,14 +13,13 @@
 :building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> minecraft server (just the most progresive ukrainian minecraft server)<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
 :books: I am currently reading - How the World’s Most Relentless Retailer will Continue to Revolutionize Commerce - Natalie Berg, Miya Knights<br>
-  
----
-
 </div>
 
-<div>  
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=JUSTRUDYan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+---
 
 <div aligin="left">
 I will try to write a poem about myself as Taras Shevchenko, in my broken English.
