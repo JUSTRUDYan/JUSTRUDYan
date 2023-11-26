@@ -57,9 +57,7 @@ Also in academy i'm studying DevOps, and i like that too. THX to my teacher for 
 <div align="center"> <img src="https://www.codewars.com/users/RUDYan/badges/large" alt="codewars stats"/> </div>
 <br>
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RUDYan\&layout=compact)
-
-[![wakatime](https://wakatime.com/badge/user/018c0d6d-46b1-47c5-b3af-457bc7f245cb.svg)](https://wakatime.com/@018c0d6d-46b1-47c5-b3af-457bc7f245cb)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JUSTRUDYan\&layout=compact)
 
 ###
 
