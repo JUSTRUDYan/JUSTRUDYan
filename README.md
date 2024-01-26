@@ -12,7 +12,7 @@
 <div aligin="left">
 :building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> minecraft server (just the most progresive ukrainian minecraft server)<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
-:books: I am currently reading - How the World’s Most Relentless Retailer will Continue to Revolutionize Commerce - Natalie Berg, Miya Knights<br>
+:books: I am currently reading - "Tender is the Flesh" - Agustina Bazterrica<br>
 </div>
 
 ---
