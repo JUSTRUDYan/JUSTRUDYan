@@ -10,7 +10,7 @@
 
 ###
 <div aligin="left">
-:building_construction: I am currently working as DBA in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> minecraft server (just the most progresive ukrainian minecraft server)<br>
+:building_construction: I am currently working as DevOps in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> minecraft server (just the most progresive ukrainian minecraft server)<br>
 :man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
 :books: I am currently reading - "Tender is the Flesh" - Agustina Bazterrica<br>
 </div>
