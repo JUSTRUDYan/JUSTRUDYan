@@ -6,12 +6,12 @@
 
 ###
 [![wakatime](https://wakatime.com/badge/user/018c0d6d-46b1-47c5-b3af-457bc7f245cb.svg)](https://wakatime.com/@018c0d6d-46b1-47c5-b3af-457bc7f245cb)
-<h4 align="left">A lowSkill DevOps from Ukraine</h4>
+<h4 align="left">A Junior DevOps Engineer from Ukraine</h4>
 
 ###
 <div aligin="left">
-:building_construction: I am currently working as DevOps in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> minecraft server (just the most progresive ukrainian minecraft server)<br>
-:man_student: I passed a CCNA, CCNE, CyberOps cisco certificate<br>
+:building_construction: I am currently working as DevOps in <a href="https://github.com/Craftoriya"><b>Craftoriya</b></a> Minecraft server (just the most progressive Ukrainian Minecraft server)<br>
+:man_student: I passed a CCNA, CCNE, CyberOps Cisco certificate<br>
 :books: I am currently reading - "Tender is the Flesh" - Agustina Bazterrica<br>
 </div>
 
