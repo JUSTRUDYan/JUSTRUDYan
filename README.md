@@ -20,13 +20,13 @@
 <div aligin="left">
 I will try to write a poem about myself as Taras Shevchenko, in my broken English.
 
-What you need to know about me : I'm Anton, 3 years old and i from Ukraine 🇺🇦.
+What you need to know about me: I'm Anton, 3 years old and from Ukraine 🇺🇦.
 
-I start coding at 10 o'clock and compleat after 15 minuts, because my brain suck's.
+I start coding at 10 o'clock and complete it after 15 minutes because my brain sucks.
 
-But seriously I'm 16 yo, I started coding when I was 10, it was cpp, but quickly finished it, because of my silly mindset at that time.<br>
+But seriously I'm 16 yo, I started coding when I was 10, and it was cpp, but I quickly finished it, because of my silly mindset at that time.<br>
 After 4 years I went to an academy that gave me a love for .cpp. (but that love ends very quickly when my code doesn't run) <br>
-Also in academy i'm studying DevOps, and i like that too. THX to my teacher for that Oleksandr Mykolayovych (cyber sec.) and Oleg Oleksiiovych (coding).
+Also in the academy, I'm studying DevOps, which I like. THX to my teacher for that Oleksandr Mykolayovych (cyber sec.) and Oleg Oleksiiovych (coding).
 </div>
 
 ###
